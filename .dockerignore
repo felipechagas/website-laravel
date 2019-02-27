@@ -1,0 +1,18 @@
+# Docker
+docker*
+Docker*
+docker-compose.yml
+Dockerfile
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency
+node_modules/
+
+# Git
+.git*
